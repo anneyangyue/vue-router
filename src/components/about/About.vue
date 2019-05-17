@@ -13,7 +13,7 @@
 <style scoped>
   .divLeft, .divRight{
     float: left;
-    border: 1px solid #333;
+    border: 1px solid #666;
   }
   .divLeft{
     width: 30%;
